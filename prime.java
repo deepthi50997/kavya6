@@ -8,4 +8,4 @@ public class prime {
             if (isPrime) System.out.print(i + " ");
         }
     }
-}//hfyytf
+} //hfytrytfytrtdgftsefc
